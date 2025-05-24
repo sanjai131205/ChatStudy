@@ -138,7 +138,8 @@ if __name__ == '__main__':
 ```
 
 ## Output:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/8b0ae272-0e6d-4ca0-bb3b-f82c11f1cb31)
+
 
 ## Result:
 
